@@ -9,6 +9,3 @@ def remove_char_at(astr, n):
             c_str = c_str + c
         i = i + 1
     return c_str
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
